@@ -1,6 +1,8 @@
 # parityGame
 A game showing how binary parity works.
 
+<a href="https://rawgit.com/petermankato/parityGame/master/index.html" target="_blank">Play the game!</a>
+<br><br>
 <h3>Instructions:</h3>
    <ol>
       <li>The "Data Input Person" randomly select any of the boxes by tapping or clicking on them.</li>
